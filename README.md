@@ -1,4 +1,4 @@
-ads_covid-19
+ADS_covid-19
 ==============================
 
 Covid-19 Data analysis
